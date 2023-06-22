@@ -1,0 +1,25 @@
+p
+{
+        padding: 21px;
+        margin: 10px;
+        background-color: aqua;
+        border-radius: 20px;
+        color: blue;
+}
+.image__container img
+{
+    max-width: 350px;
+}
+
+h5 {
+    padding: 21px;
+    margin: 10px;
+    background-color: red;
+    border-radius: 20px;
+    color: black;
+}
+.menu_container img
+ {
+  max-width:  350px;
+}
+
